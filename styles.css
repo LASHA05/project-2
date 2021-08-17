@@ -1,1 +1,13 @@
-styles
+/*home start*/
+.home1{
+	background-image:url(images/nav.jpg) ;
+	font-size: 30px;
+	margin: 10px;
+}
+.home1>a{
+	margin: 100px;
+	color: #fcd200;
+}
+.home2{
+	background-image: ;
+}
