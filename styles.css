@@ -1,15 +1,18 @@
 /*home start*/
 .home1{
+
 	background-image:url(images/wal.jpg) ;
 	font-size: 30px;
 	margin: 10px;
 	position: fixed;
 	size: 100%;
+
 }
 .home1>a{
 	margin: 100px;
 	color: #fcd200;
 }
+
 .gam{
 	background-size: 100px;
 }
@@ -117,4 +120,6 @@
 .form1{
 	color: greenyellow;
 	border: solid yellow;
+
+
 }
