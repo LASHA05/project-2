@@ -1,1 +1,120 @@
-styles
+/*home start*/
+.home1{
+	background-image:url(images/wal.jpg) ;
+	font-size: 30px;
+	margin: 10px;
+	position: fixed;
+	size: 100%;
+}
+.home1>a{
+	margin: 100px;
+	color: #fcd200;
+}
+.gam{
+	background-size: 100px;
+}
+.home2{
+	background-image:url(images/shopping.jpg) ;
+    width: 400px;
+    height: 400px;
+    background-size: 400px;
+   margin: 30px;
+}
+.home2>a{
+	font-size: 50px;
+    color: white;
+   padding: 70px;
+}
+.home3{
+	background-image: url(images/money.jpg);
+	width: 400px;
+    height: 400px;
+    background-size: 400px;
+   position: absolute;
+   top:70px ;
+   right:103px ;
+}
+.home3>a{
+		font-size: 50px;
+    color: white;
+   padding: 70px;
+}
+.home4{
+	background-image: url(images/games.jpg);
+	width: 400px;
+    height: 400px;
+    background-size: 400px;
+   position: absolute;
+   top:5px ;
+   right:700px ;
+}
+.home4>a{
+		font-size: 50px;
+    color: white;
+   padding: 70px;
+}
+.home5{
+	background-image:url(images/total.jpg) ;
+    width: 400px;
+    height: 400px;
+    background-size: 400px;
+   margin: 30px;
+}
+.home5>a{
+		font-size: 50px;
+    color: white;
+   padding: 70px;
+}
+.home6{
+	background-image: url(images/fastfood.jpg);
+	width: 400px;
+    height: 400px;
+    background-size: 400px;
+   position: absolute;
+   top:500px ;
+   right:102px ;
+ }
+ .home6{
+ 		font-size: 50px;
+    color: white;
+   
+ }
+.home7{
+	background-image: url(images/cinema.jpg);
+	 width: 400px;
+    height: 400px;
+    background-size: 400px;
+   position: absolute;
+   top: 7px;
+   right:695px;
+}
+.home7>a{
+		font-size: 50px;
+    color: white; 
+}
+.home8{
+	background-image:url(images/1.jpg) ;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.tv{
+	background-color: silver;
+	size: 100%;
+}
+/*home ends*/
+/*footer start*/
+.foot1{
+	background-image:url(images/tu.gif) ;
+	text-shadow: silver;
+	font-size:40px;
+	color: salmon;
+	margin: auto;
+}
+.foot1>a{
+	color: white;
+	font-size: 50px;
+}
+.form1{
+	color: greenyellow;
+	border: solid yellow;
+}
