@@ -120,6 +120,135 @@
 .form1{
 	color: greenyellow;
 	border: solid yellow;
+}
+/*footer end*/
+/*fast-food start*/
+.FF1{
+	height: 100px;
+	width: 100px;
+	background-image: url(images/bac.jpg);
+	font-size: 30px;
+	background-size: 100px;
 
-
+}
+.FF1>a{
+	color: white;
+}
+.FF2{
+	
+	border: solid #ff6f00;
+}
+.FF3{
+	background-color: #7500db;
+}
+.FF4{
+	
+	border: solid #ff6f00 10px;
+	background-image: url(images/food.jpg);
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+.K1{
+background-image: url(images/gosa.png);
+width: 600px;
+height: 600px;
+background-size:600px;
+margin-left: 600px;
+border: solid #ff6f00 10px;
+}
+.K1>a{
+	color: #ff4000;
+	font-size: 50px;
+	margin: 20px;
+}
+.K2{
+background-image: url(images/muhudo.jpg);
+width: 600px;
+height: 600px;
+background-size:600px;
+margin-left: 600px;
+}
+.K2>a{
+	color: white;
+	font-size: 50px;
+	margin: 20px;
+}
+.K3{
+background-image: url(images/macdonalds.jpg);
+width: 600px;
+height: 600px;
+background-size:600px;
+margin-left: 600px;
+}
+.K3>a{
+	font-size: 50px;
+	margin: 20px;
+	color: #c9991e;
+}
+.K4{
+background-image: url(images/dunkin-donuts.jpg);
+width: 600px;
+height: 600px;
+background-size:600px;
+margin-left: 600px;
+}
+.K4>a{
+	color: #ff0000;
+	font-size: 50px;
+	margin: 20px;
+}
+.K5{
+background-image: url(images/burgc.jpg);
+width: 600px;
+height: 600px;
+background-size:600px;
+margin-left: 600px;
+}
+.K5>a{
+	color: #ff9900;
+	font-size: 50px;
+	margin: 20px;
+}
+/*fast food end*/
+/*games start*/
+.G1{
+	border: solid #ff6f00 10px;
+	background-image: url(images/g1.jpg);
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+.G1>div{
+width: 600px;
+height: 600px;
+background-size:600px;
+margin-left: 600px;
+}
+.G1>div>a{
+	font-size: 50px;
+	margin: 20px;
+	color: #c9991e;
+}
+.G2{
+	background-image: url(images/poki.jpg);
+	background-repeat: no-repeat;
+}
+.G3{
+	background-image: url(images/paco.jpg);
+	background-repeat: no-repeat;
+}
+.G4{
+	background-image: url(images/crazy.jpg);
+	background-repeat: no-repeat;
+}
+.G5{
+	background-image: url(images/Y8.jpg);
+	background-repeat: no-repeat;
+}
+.G6{
+	background-image: url(images/cell.jpg);
+	background-repeat: no-repeat;
+}
+.G7{
+	background-image: url(images/happy.jpg);
+	background-repeat: no-repeat;
 }
