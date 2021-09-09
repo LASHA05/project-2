@@ -138,20 +138,6 @@
 	background-image: url(images/bac.jpg);
 	font-size: 30px;
 	background-size: 100px;
-
-
-
-}
-/*footer end*/
-/*fast-food start*/
-.FF1{
-	height: 100px;
-	width: 100px;
-	background-image: url(images/bac.jpg);
-	font-size: 30px;
-	background-size: 100px;
-
-
 }
 .FF1>a{
 	color: white;
@@ -165,7 +151,7 @@
 }
 .FF4{
 
-	background-image: url(images/food.jpg);
+	background-image: url(images/b1.jpg);
 	background-repeat: no-repeat;
 	background-size:100% 100%;
 	border: solid #ff6f00 10px;
@@ -236,7 +222,7 @@ margin-left: 600px;
 /*games start*/
 .G1{
 	border: solid #ff6f00 10px;
-	background-image: url(images/g1.jpg);
+	background-image: url(images/b3.png);
 	background-repeat: no-repeat;
 	background-size:100% 100%;
 }
@@ -279,7 +265,7 @@ margin-left: 600px;
 /*games end*/
 /*money start*/
 .MM{
-	background-image: url(images/loan.jpg);
+	background-image:url(images/b5.jpg) ;
 background-repeat: no-repeat;
 	background-size:100% 100%;
 	border: solid #ff6f00 10px;
@@ -340,7 +326,7 @@ border: solid #ff6f00 10px;
 /*money end*/
 /*movies start*/
 .CC{
-	background-image: url(images/Bmovies.jpg);
+	background-image: url(images/b4.jpg);
 background-repeat: no-repeat;
 	background-size:100% 100%;
 	border: solid #ff6f00 10px;
@@ -401,7 +387,7 @@ border: solid #ff6f00 10px;
 /*movies end*/
 /*shopping start*/
 .SH{
-	background-image: url(images/shol.jfif);
+	background-image: url(images/b2.jpg);
   background-repeat: no-repeat;
 	background-size:100% 100%;
 	border: solid #ff6f00 10px;
